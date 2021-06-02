@@ -38,7 +38,7 @@
     "rootrequire": "^1.0.0"
   },
   "dependencies": {
-    "heic-decode": "^1.1.2",
+    "heic-decode": "git+https://github.com/cdot4/heic-decode.git#abc9557",
     "jpeg-js": "^0.4.1",
     "pngjs": "^3.4.0"
   },
